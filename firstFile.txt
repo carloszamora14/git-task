@@ -1,5 +1,5 @@
-Contrary to popular belief, Lorem Ipsum is not simply random text.
-It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+Line 1: Updated git_1
+Line 2: Another updated git_1
 Line 3: New content from git_1
 Line 4: Different text git_1
 and going through the cites of the word in classical literature,
